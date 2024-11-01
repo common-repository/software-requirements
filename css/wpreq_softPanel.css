@@ -1,0 +1,64 @@
+.text_ads-main label{
+	display: block;
+	margin: 15px 0px 5px;
+}
+.text_ads-main input{
+	display: block;
+	margin: 5px 0px 15px;
+	width: 100%;
+}
+.settins-title{
+	display:none;
+}
+.shortcode_code {
+    direction: ltr;
+    background-color: #0073AA;
+		padding: 8px 10px;
+    color: #fff;
+    text-align: left;
+    border-radius: 3px;
+}
+.thickbox-req-soft {
+    background-color: #15B74F;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.thickbox-req-soft:hover{
+	background-color: #12a848;
+	color: #fff;
+}
+.perview_style_req_soft {
+    border: 7px solid #0085BA;
+    border-radius: 5px;
+}
+.btn-req-soft {
+    background-color: #00A0D2;
+    font-size: 12px;
+    padding: 7px 10px 2px 10px;
+    text-align: center;
+    font-family: tahoma;
+    color: #fff;
+    cursor: pointer;
+    font-weight: normal;
+    float: left;
+    height: 24px;
+    border-radius: 2px;
+    border: 1px solid #333;
+}
+.pre_image {
+    width: 80px;
+    height: 80px;
+    border-radius: 3px;
+    border: 5px solid #0073AA;
+    padding: 1px;
+		display: none;
+}
+#wp-req-soft-tiny-custom-wrap{
+display:none;
+}
+.post-type-req_soft .wp-link-text-field , .post-type-req_soft .link-target {
+    display: none !important;
+}

@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Required Software\n"
+"POT-Creation-Date: 2016-05-02 16:35+0430\n"
+"PO-Revision-Date: 2016-05-02 16:36+0430\n"
+"Last-Translator: \n"
+"Language-Team: AV-Team <alivazirinia@yahoo.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/add-meta-boxes.php:3
+msgid "Specifications"
+msgstr "مشخصات"
+
+#: inc/add-meta-boxes.php:49
+msgid "Link Address :"
+msgstr "آدرس لینک :"
+
+#: inc/add-meta-boxes.php:54
+msgid "Description :"
+msgstr "توضیحات :"
+
+#: inc/add-meta-boxes.php:66
+msgid "Icon Software :"
+msgstr "آیکون نرم افزار :"
+
+#: inc/add-meta-boxes.php:68
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: inc/add-meta-boxes.php:71
+msgid "Preview :"
+msgstr "پیش نمایش :"
+
+#: inc/add-meta-boxes.php:74
+msgid "Please Insert Software Icon"
+msgstr "لطفا آیکن را وارد نمایید"
+
+#: inc/add-meta-boxes.php:91
+msgid "Upload Image"
+msgstr "بارگذاری تصویر"
+
+#: inc/add-meta-boxes.php:123
+msgid "Images"
+msgstr "تصاویر"
+
+#: inc/add-meta-boxes.php:137
+msgid "No Image"
+msgstr "بدون عکس"
+
+#: inc/add-post-type.php:3 inc/add-post-type.php:4 inc/add-post-type.php:14
+#: inc/add-post-type.php:18 inc/add-post-type.php:19
+msgid "Software Requirements"
+msgstr "نرم افزار مورد نیاز"
+
+#: inc/add-post-type.php:5 inc/add-post-type.php:6
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: inc/add-post-type.php:7
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/add-post-type.php:8
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: inc/add-post-type.php:9
+msgid "View"
+msgstr "نمایش"
+
+#: inc/add-post-type.php:10
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/add-post-type.php:11
+msgid "Not Found"
+msgstr "یافت نشد!"
+
+#: inc/add-post-type.php:12
+msgid "Not Found In Trash"
+msgstr "در سطل زباله یافت نشد"
+
+#: inc/add-shortcode.php:45
+msgid "No Information"
+msgstr "هیچ اطلاعاتی موجود نیست."
+
+#: inc/setting.php:7 inc/setting.php:64
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/setting.php:46
+msgid "Settings Page"
+msgstr "صفحه تنظیمات"
+
+#: inc/setting.php:62
+msgid "Title Name"
+msgstr "عنوان نمایشی در سایت"
+
+#: inc/setting.php:67
+msgid "Title Size(px)"
+msgstr "اندازه  عنوان(پیکسل)"
+
+#: inc/setting.php:71
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+#: inc/setting.php:75
+msgid "Title border-color"
+msgstr "رنگ کادر زیر عنوان"
+
+#: inc/setting.php:81
+msgid "Show/Hide Image"
+msgstr "نمایش / عدم نمایش تصویر"
+
+#: inc/setting.php:84 inc/setting.php:94
+msgid "Yes"
+msgstr "بله نشان بده"
+
+#: inc/setting.php:85 inc/setting.php:95
+msgid "No"
+msgstr "خیر نشان نده"
+
+#: inc/setting.php:91
+msgid "Show/Hide Date"
+msgstr "نمایش / عدم نمایش بروزرسانی"
+
+#: inc/setting.php:101 inc/setting.php:176
+msgid "Number of software"
+msgstr "تعداد نمایش نرم افزار "
+
+#: inc/setting.php:106
+msgid "Link Target"
+msgstr "هدف لینک"
+
+#: inc/setting.php:109
+msgid "_blank"
+msgstr "تب جدید"
+
+#: inc/setting.php:110
+msgid "_self"
+msgstr "همان صفحه"
+
+#: inc/setting.php:115
+msgid "Style"
+msgstr "استایل"
+
+#: inc/setting.php:118
+msgid "AV Dark"
+msgstr "تیره"
+
+#: inc/setting.php:119
+msgid "AV Gray"
+msgstr "خاکستری"
+
+#: inc/setting.php:120
+msgid "No Style"
+msgstr "بدون استایل"
+
+#: inc/setting.php:164
+msgid "Shortcode"
+msgstr "شورت کد افزونه"
+
+#: inc/setting.php:165
+msgid "Insert in your theme :"
+msgstr "کد زیر را در پوسته خود قرار دهید :"
+
+#: inc/setting.php:169
+msgid "OR"
+msgstr "یا"
+
+#: inc/setting.php:170
+msgid "Insert in your widget :"
+msgstr "کد زیر را در ویجت خود قرار دهید :"
+
+#: inc/setting.php:177
+msgid "use value 0 like number of post show in your site."
+msgstr ""
+"استفاده از مقدار صفر باعث میشود تعداد نمایش نرم افزار ها با تعداد پست های "
+"نمایشی در صفحه اصلی برابر باشد."
+
+#: inc/setting.php:178
+msgid "use value -1 you can show all of software"
+msgstr ""
+"استفاده از مقدار منفی یک (1-) باعث می شود همه نرم افزار ها را نشان دهد."
+
+#: inc/setting.php:179
+msgid "use other value in number of software you can limite them"
+msgstr ""
+"استفاده از مقدار های بیشتر از صفر نیز به همان تعداد نرم افزار ها را نشان می "
+"دهد."
+
+#: inc/setting.php:184
+msgid "Help"
+msgstr "راهنمای استفاده از افزونه"
+
+#~ msgid "last update :"
+#~ msgstr "بروزرسانی:"
+
+#~ msgid "Title Size"
+#~ msgstr "اندازه  عنوان"
+
+#~ msgid "Setting"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Setting Page"
+#~ msgstr "صفحه تنظیمات"
+
+#~ msgid "Link Address:"
+#~ msgstr "آدرس لینک"
+
+#~ msgid "Link Address"
+#~ msgstr "آدرس لینک"

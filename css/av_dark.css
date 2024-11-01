@@ -1,0 +1,71 @@
+/*
+======================
+Style By AV TEAM
+Style Name : av_dark
+======================
+*/
+
+.req-soft-wrap img {
+float: right;
+border-radius: 5px;
+margin-left: 10px;
+width: 45px;
+height: 45px;
+margin-top: 1px;
+}
+.req-soft-wrap ul {
+list-style:none;
+padding-right: 0;
+}
+.req-soft-wrap a:hover img {
+-webkit-transition: -webkit-transform .8s ease-in-out;
+-ms-transition: -ms-transform .8s ease-in-out;
+transition: transform .8s ease-in-out;
+border-radius: 50%;
+transform: rotate(360deg);
+-ms-transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+.req-soft-wrap a{
+display: block;
+text-shadow: 0px 0px 2px #eeb213;
+color: #eeb213;
+padding: 5px 20px;
+margin: 2px;
+background: rgba(0,0,0,0.7);
+}
+.req-soft-name {
+    font-size: 14px;
+}
+.req-soft-desc , .req-soft-time {
+    font-size: 12px;
+}
+.req-soft-wrap:hover a{
+text-shadow: 0px 0px 10px #eeb213;
+color: transparent;
+background: rgba(0,0,0,0.2);
+}
+.req-soft-wrap a:hover{
+background: rgba(0,0,0,1.0);
+text-shadow: 0px 0px 1px #eeb213;
+color: #eeb213;
+-webkit-transform:scale(1.05); /* Safari and Chrome */
+-moz-transform:scale(1.05); /* Firefox */
+-ms-transform:scale(1.05); /* IE 9 */
+-o-transform:scale(1.05); /* Opera */
+transform:scale(1.05);
+}
+.req-soft-wrap a:hover img{
+-webkit-filter: blur(0px);
+-moz-filter: blur(0px);
+-o-filter: blur(0px);
+-ms-filter: blur(0px);
+filter: blur(0px);
+}
+.req-soft-wrap:hover img{
+-webkit-filter: blur(5px);
+-moz-filter: blur(5px);
+-o-filter: blur(5px);
+-ms-filter: blur(5px);
+filter: blur(5px);
+}

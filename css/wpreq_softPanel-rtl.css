@@ -1,0 +1,21 @@
+.btn-req-soft {
+    background-color: #00A0D2;
+    font-size: 12px;
+    padding: 7px 10px 2px 10px;
+    text-align: center;
+    font-family: tahoma;
+    color: #fff;
+    cursor: pointer;
+    font-weight: normal;
+    float: right;
+    height: 24px;
+    border-radius: 2px;
+    border: 1px solid #333;
+}
+.form-table td {
+    width: 253px;
+    float: right;
+}
+.content-help-req-soft {
+    text-align: right;
+}

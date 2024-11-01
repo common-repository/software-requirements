@@ -1,0 +1,65 @@
+/*
+======================
+Style By AV TEAM
+Style Name : av_gray
+======================
+*/
+
+.req-soft-wrap img {
+float: right;
+border-radius: 5px;
+margin-left: 10px;
+width: 45px;
+height: 45px;
+margin-top: -2px;
+}
+.req-soft-wrap ul {
+list-style:none;
+padding-right: 0;
+}
+.req-soft-wrap a:hover img {
+-webkit-transition: -webkit-transform .8s ease-in-out;
+-ms-transition: -ms-transform .8s ease-in-out;
+transition: transform .8s ease-in-out;
+border-radius: 50%;
+transform: rotate(360deg);
+-ms-transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+.req-soft-wrap a{
+    display: block;
+    color: #333;
+    padding: 5px 20px;
+    margin: 2px;
+    background: #ededed;
+}
+.req-soft-name {
+    font-weight: bold;
+	font-size: 11px;
+}
+.req-soft-desc ,.req-soft-time {
+    font-size: 12px;
+}
+.req-soft-wrap:hover a{
+text-shadow: 0px 0px 10px #333;
+color: transparent;
+background: rgba(0,0,0,0.2);
+}
+.req-soft-wrap a:hover{
+background: #ddd;
+color: #333;
+}
+.req-soft-wrap a:hover img{
+-webkit-filter: blur(0px);
+-moz-filter: blur(0px);
+-o-filter: blur(0px);
+-ms-filter: blur(0px);
+filter: blur(0px);
+}
+.req-soft-wrap:hover img{
+-webkit-filter: blur(5px);
+-moz-filter: blur(5px);
+-o-filter: blur(5px);
+-ms-filter: blur(5px);
+filter: blur(5px);
+}
